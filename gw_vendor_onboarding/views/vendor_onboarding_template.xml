@@ -1,0 +1,7 @@
+<odoo>
+    <template id="vendor_onboarding_page" name="Vendor Onboarding Page">
+        <t t-call="website.layout">
+            <div id="vendor_onboarding_root" class="container my-5"></div>
+        </t>
+    </template>
+</odoo>
